@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-Utils.AIUA01-e285c531-dc1c-4cb8-af5a-564edccd17d4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.3.12" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.2" />
+  </ItemGroup>
+
+</Project>
