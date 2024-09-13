@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Utils.AIUA01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8f34a74da17be20deadcc03e2191bdbdcd19291")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utils.AIUA01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Utils.AIUA01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

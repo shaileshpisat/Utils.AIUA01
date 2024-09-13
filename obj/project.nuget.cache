@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTRWVd3gYygjfi9w6cYj6PoEhTTVO/VqF/+Ca787KG0+CZGeRJAIgvmbSq+223uOHM6Cy4Z/tz49HecI8DGAaA==",
+  "dgSpecHash": "rTNfaWVydBv0nB183hAe3ko2HLF2RuM8e4PtO5igsW33fASo2QRWS0tG/m7UkSqggK5gO8fm4vNPjzwiB/lzPw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sppis\\Projects\\OS\\dnc\\web\\Utils\\Utils.AIUA01\\Utils.AIUA01.csproj",
+  "projectFilePath": "C:\\Users\\sppis\\Projects\\OS\\dnc\\web\\utils\\DB to Models\\Utils.AIUA01\\Utils.AIUA01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sppis\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sppis\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
